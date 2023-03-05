@@ -1,0 +1,9 @@
+
+
+const names = require('./1-intro')
+const sayHi = require('./utils')
+
+
+sayHi(names.ali)
+sayHi(names.saman)
+   
